@@ -1,5 +1,6 @@
 h1{
   color:white;
+  text-decoration:underline;
 }
 img{
   width:250px;
@@ -10,8 +11,11 @@ body {
   color:transparent;
 }
 P{
-  color:black;
+  color:white;
 }
 li{
+  color:white;
+}
+a {
   color:white;
 }
