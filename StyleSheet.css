@@ -24,3 +24,13 @@ a:hover{
   color:black;
   text-decoration:underline;
 }
+nav{
+  Fixed positiomn top:0;
+  width:40%;
+}
+section{
+  display:inline-block;
+width:30%;
+  
+}
+
